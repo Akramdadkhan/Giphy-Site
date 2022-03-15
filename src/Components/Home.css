@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    background-color: black;
+}
+.main{
+    
+    color: white;
+    margin:0 10%;
+
+}
+input{
+    background-color: white;
+    width: 92%;
+    height: 35px;
+    font-size: larger;
+}
+button{
+    background-color: rgb(240, 124, 195);
+    height: 35px;
+}
+
+.c2{
+    
+width: 355px;
+height: 250px;
+    color: white;
+    display: inline-block;
+}
+.img{
+    width: 355px;
+    height: 250px;
+}
+.title{
+    display: none;
+}
